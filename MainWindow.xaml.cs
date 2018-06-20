@@ -1,3 +1,7 @@
+//U6Euler2
+//Shane Macdonald
+//program adds all the even fib numbers of 4 million
+//June 19, 2018
 using System;
 using System.Collections.Generic;
 using System.Linq;
